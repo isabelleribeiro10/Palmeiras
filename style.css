@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-image: linear-gradient(#b4bdcc,#2ebb1b);
+    background-image: linear-gradient(#b4bdcc);
     background-color: #c6cbd3;
     color: white;
     display: flex;
