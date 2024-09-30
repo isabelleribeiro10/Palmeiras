@@ -8,7 +8,7 @@ body {
 .cabecalho {
     background-image: linear-gradient(#b4bdcc);
     background-color: #c6cbd3;
-    color: white;
+    color: rgba(156, 174, 177, 0.411);
     display: flex;
     justify-content: space-around;
     align-items:center;
